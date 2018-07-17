@@ -1,0 +1,17 @@
+.\objects\finalproject_hand.o: finalProject_hand.c
+.\objects\finalproject_hand.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\finalproject_hand.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\finalproject_hand.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\finalproject_hand.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\finalproject_hand.o: finalProject_hand.h
+.\objects\finalproject_hand.o: ..\..\..\..\inc/hw_types.h
+.\objects\finalproject_hand.o: ..\..\..\..\inc/hw_memmap.h
+.\objects\finalproject_hand.o: ..\..\..\..\inc/hw_gpio.h
+.\objects\finalproject_hand.o: ..\..\..\..\driverlib/sysctl.h
+.\objects\finalproject_hand.o: ..\..\..\..\driverlib/pin_map.h
+.\objects\finalproject_hand.o: ..\..\..\..\driverlib/gpio.h
+.\objects\finalproject_hand.o: ..\..\..\..\driverlib/adc.h
+.\objects\finalproject_hand.o: ..\..\..\..\driverlib/timer.h
+.\objects\finalproject_hand.o: ..\..\..\..\driverlib/interrupt.h
+.\objects\finalproject_hand.o: ..\..\..\..\driverlib/uart.h
+.\objects\finalproject_hand.o: ..\..\..\..\inc/tm4c123gh6pm.h

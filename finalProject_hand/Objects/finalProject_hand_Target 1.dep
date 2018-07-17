@@ -1,0 +1,21 @@
+Dependencies for Project 'finalProject_hand', Target 'Target 1': (DO NOT MODIFY !)
+F (.\finalProject_hand.c)(0x5AFB2FD8)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\.. --C99-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DTM4C123GH6PM -Drvmdk -DPART_TM4C123GH6PM-o .\objects\finalproject_hand.o --omf_browse .\objects\finalproject_hand.crf --depend .\objects\finalproject_hand.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C6444)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x588C6444)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588C6444)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588C6444)
+I (finalProject_hand.h)(0x5AECD8DA)
+I (..\..\..\..\inc/hw_types.h)(0x5A6D6FAC)
+I (..\..\..\..\inc/hw_memmap.h)(0x5A6D6FAC)
+I (..\..\..\..\inc/hw_gpio.h)(0x5A6D6FAC)
+I (..\..\..\..\driverlib/sysctl.h)(0x5A6D6FA7)
+I (..\..\..\..\driverlib/pin_map.h)(0x5A6D6FA7)
+I (..\..\..\..\driverlib/gpio.h)(0x5A6D6FA7)
+I (..\..\..\..\driverlib/adc.h)(0x5A6D6FA7)
+I (..\..\..\..\driverlib/timer.h)(0x5A6D6FA7)
+I (..\..\..\..\driverlib/interrupt.h)(0x5A6D6FA7)
+I (..\..\..\..\driverlib/uart.h)(0x5A6D6FA7)
+I (..\..\..\..\inc/tm4c123gh6pm.h)(0x5A6D6FAC)
+F (.\finalProject_hand.h)(0x5AECD8DA)()
+F (.\startup_rvmdk.S)(0x5AF256BF)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 524" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_rvmdk.lst --xref -o .\objects\startup_rvmdk.o --depend .\objects\startup_rvmdk.d)
+F (..\..\..\..\driverlib\rvmdk\driverlib.lib)(0x5A6D6FA7)()
